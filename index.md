@@ -1,49 +1,47 @@
 
-### Mir Mohammad Kamali
-<a href="http://uupload.ir/view/rnde_mohammad.jpg" target="_blank"><img src="http://uupload.ir/files/rnde_mohammad_thumb.jpg" border="0" alt="آپلود عکس" /></a>
-
-### Personal informations
+### amir mohammad kuselar
+<a href="
 
 ---
-+ name: Mir mohammad
-+ last name : kamali
-+ Date of birth : 1999/April/10
-+ I am a trader and Computer engineering student
-+ location : Tehran , I.R.Iran
++ name: Amir mohammad
++ last name : kuselar
++ Date of birth : 2000/julay/29
++ I am a Computer engineering student
++ locationn: Tehran , I.R.Iran
 
 
 ### Skill Highlights
 
 ---
-+ trade on Tehran Stock Exchange and Forex
+
 + Programming
 + playing games on best leagues
 
 ### Education
 
 ---
-+ Diploma : Shahid Dr.Chamran school
-_ 2015
++ Diploma : alameh tabatabayi school
+_ 2016
 + Bachelor of science : computer Engineering
-_ 2018,payam Noor University of Rey 
+_ 2018,payam Noor univercity saveh
 
 ### Favorites
 
 ---
-+ Trade
-+ ping-pong
+
++ Football
 + travel 
 + playing video games
 
 ### working Experience
 
 ---
-+ I am working in Mofid Brokerage .
+
 
 ### contact with me
 
 ---
-+ https://web.telegram.org/#/im?p=@M7M_K
++ https://web.telegram.org/#/im?p=amir_kuselar
 
 ### رزومه فارسی
 
